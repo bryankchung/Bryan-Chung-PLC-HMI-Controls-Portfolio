@@ -1,5 +1,7 @@
 # **Multi-Language PLC Project**
 
+![Picture of Code]("C:\Users\bchun\OneDrive\Documents\PLC\PLC_Portfolio\Multi_Language_PLC_Project\screenshots\Multi_Language_PLC_Photo.png".png)
+
 #### **Link to Demo Video**
 [Bryan_Chung_PLC_Portfolio](https://sites.google.com/view/bryan-chung/home)
 
