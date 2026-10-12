@@ -1,6 +1,6 @@
 # **Multi-Language PLC Project**
 
-![Picture of Code]("screenshots/Multi_Language_PLC_Photo.png".png)
+![Picture of Code]("screenshots\Multi_Language_PLC_Photo.png")
 
 #### **Link to Demo Video**
 [Bryan_Chung_PLC_Portfolio](https://sites.google.com/view/bryan-chung/home)
