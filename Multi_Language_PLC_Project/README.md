@@ -10,10 +10,14 @@ This project simulates controlling the level and temperature of a tank with 4 de
 
 Low level alarm triggers when tank level below 20%. High level alarm triggers when tank level above 80%. High temp alarm triggers when temp is above 500. There is a 5 second delay to turn on and off devices and level and temp values are updated every 5 seconds.
 
+#### **Safety Measures**
+System includes three alarms, E-Stop, and safety interlock. The alarms each have a notify bit to alert the operator. The operator can use the silence button to acknowledge alarms. Alarm reset button will not reset alarms and return to operation mode until fault condition is also cleared. Off button will return system to offline mode. E-Stop will do the same while also triggering an interlock that will prevent the machine from turning on again without resetting the interlock with the machine reset button.
+
 #### **How to Install Project**
-1. Extract archive file
-2. Open archive file to open file in Automation Builder
-3. Click extract when the window pops up
+1. Download Automation Builder 2.9 here,  earlier versions will not run the program: [Automation Builder Download](https://www.abb.com/global/en/areas/motion/digital-tools/automation-builder/software-download)
+2. Extract archive file
+3. Open archive file to open file in Automation Builder
+4. Click extract when the window pops up
 
 #### **How to Run Project**
 1. Double Click Applicaiton
