@@ -20,7 +20,7 @@ System includes three alarms, E-Stop, and safety interlock. The alarms each have
 4. Click extract when the window pops up
 
 #### **How to Run Project**
-1. Double Click Applicaiton
+1. Double Click Application
 2. Open the Main program to visualize the process entering different states during simulation
 3. Open Global Variable page in resources tab and split screen with Main program
 4. Open the Online drop down menu and login
