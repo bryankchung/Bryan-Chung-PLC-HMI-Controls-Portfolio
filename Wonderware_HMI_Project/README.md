@@ -24,7 +24,7 @@ Config Screen and Runtime Screens cannot be interacted without proper access by 
 
 
 #### **File Directory**
-<pre>
+```
 |   HMI_Project_Data_Mapping Table.md
 |   HMI_Project_PLC.zip
 |   HMI_Project_Wonderware.zip
@@ -34,6 +34,7 @@ Config Screen and Runtime Screens cannot be interacted without proper access by 
         Backwash_Flow_PFD.drawio.png
         HMI_Main_Screen_Screenshot.png
         Normal_Flow_PFD.drawio.png
+```
 
 #### **Memory Map Snippet**
 | Tag Name               | Type    | I/O Address | Action     |
