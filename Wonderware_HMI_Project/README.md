@@ -18,12 +18,13 @@ Normal flow as depicted in the process flow diagram above will initiate when sta
 
 ![Backwash Flow PFD](screenshots/Backwash_Flow_PFD.drawio.png )
 
-Backwash Flow will active when differential pressure in the filter is greater than 5 PSI or backwash is pended, reversing flow and cleaning excess contaminants from the filter.
+Backwash Flow will activate when differential pressure in the filter is greater than 5 PSI or backwash is pended, reversing flow and cleaning excess contaminants from the filter. Backwash path is shown above.
 
 Config Screen and Runtime Screens cannot be interacted without proper access by logging in with the right user in the Login Screen. Operators can use config screen and username and password are both 'A'. Managers can use runtime screen and username and password are 'B'. OEM has access to both and username and password are both 'C'. All usernames and passwords are not case sensitive.
 
 
 #### **File Directory**
+<pre>
 |   HMI_Project_Data_Mapping Table.md
 |   HMI_Project_PLC.zip
 |   HMI_Project_Wonderware.zip
@@ -33,6 +34,7 @@ Config Screen and Runtime Screens cannot be interacted without proper access by 
         Backwash_Flow_PFD.drawio.png
         HMI_Main_Screen_Screenshot.png
         Normal_Flow_PFD.drawio.png
+<pre>
 
 #### **Memory Map Snippet**
 | Tag Name               | Type    | I/O Address | Action     |
