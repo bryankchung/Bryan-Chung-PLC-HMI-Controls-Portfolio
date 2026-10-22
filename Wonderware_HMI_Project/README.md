@@ -34,7 +34,6 @@ Config Screen and Runtime Screens cannot be interacted without proper access by 
         Backwash_Flow_PFD.drawio.png
         HMI_Main_Screen_Screenshot.png
         Normal_Flow_PFD.drawio.png
-<pre>
 
 #### **Memory Map Snippet**
 | Tag Name               | Type    | I/O Address | Action     |
