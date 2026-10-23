@@ -15,4 +15,4 @@ Hi, my name is Bryan Chung and this is my automation portfolio. It currently hol
 #### **Project Summary**
 
 - The Multi-Language PLC Project combines all 5 IEC 61131-3 programming languages (Ladder Logic, Fuctional Block Diagrams, Structured Text, Sequential Functional Chart, and Instruction List) into one program in a scenario controlling the level and temperature of a tank. It includes a 5-state system, E-Stop, Safety Interlock, and three alarms.
--The HMI project visualizes a water filtration system with backwash functionality. It includes animations, alarm representation and logging, as well as a login restricting full use of the HMI to select useers.
+- The HMI project visualizes a water filtration system with backwash functionality. It includes animations, alarm representation and logging, as well as a login restricting full use of the HMI to select useers.
